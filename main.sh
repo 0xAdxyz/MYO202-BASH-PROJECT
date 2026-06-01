@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# İsim SOYİSİM
-# Öğrenci Numarası
+# Adem Özdemir
+# 2420191023
 # Sertifika Bağlantıları:
-# 1) https://
-# 2) https://
+# 1) https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=rKjharrOXE
+# 2) https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=9XrtzXXE8P
 # 3) https://credsverse.com/credentials/0055bab0-b92e-46af-866b-7ed2eac451f6
 
 # ============================================================
